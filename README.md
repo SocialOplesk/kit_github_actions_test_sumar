@@ -6,7 +6,7 @@
 
 <br/>
 
-**El proceso a realizar se hace sobre un script en python3**
+**El proceso a realizar se hace con scripts en python3**
 
 **Requisitos previos**
 
